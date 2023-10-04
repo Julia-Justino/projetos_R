@@ -1,0 +1,15 @@
+n <- 20000
+set.seed(1234)
+idade <- abs(round(rnorm(n, 35, 7),0))
+altura <- abs(round(rnorm(n, 1.50, 0.1), 2))
+peso <- abs(round(rnorm(n, 55, 4), 2))
+imc <- round(peso/altura^2, 2)
+summary(imc)
+#summary(altura)
+#summary(idade)
+#summary(peso)
+#hist(idade, main = "Histograma de Idade", ylab = "Freq", xlab = "Idade")
+#hist(altura,main = "Histograma da altura",ylab = "Freqüência",xlab = "Altura (em metros)")
+#hist(peso, main = "Histograma do peso", ylab = "Freqüência",xlab = "Peso (em Kg)")
+
+hist(imc, main = "Histograma do IMC",ylab = "Freqüência", xlab = "IMC")

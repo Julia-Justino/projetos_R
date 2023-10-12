@@ -12,3 +12,7 @@ vendas<- data.frame(vend)
 vendas<- vendas[-indice,]
 
 geral<- data.frame(vendas,dias, produtos, quantidade)
+
+proc <- quadro2$Preco.unitario * 0.5
+
+quadro2["aumento"] <- c(proc)

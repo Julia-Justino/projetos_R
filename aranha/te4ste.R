@@ -1,8 +1,9 @@
 library(dplyr)
 library(ggplot2)
 library(lubridate)
-#library(gridExtra)
-#library(patchwork)
+library(RMariaDB)
+library(gridExtra)
+library(patchwork)
 
 dfTemp <- data.frame(Dia = climaTempo$Data ,
                      "Temperatura mínima" = climaTempo$temperaturaMinima, 
@@ -152,3 +153,19 @@ SQres1 = sum((predict(lm(dadosDia$mediaTempMin ~ dadosDia$mediaTempMax)) - dados
 R21 = (SQt1 - SQres1) / SQt1
 summary(lm(dadosDia$mediaTempMin ~ dadosDia$mediaTempMax))
 predict(lm(dadosDia$mediaTempMin ~ dadosDia$mediaTempMax))
+
+
+
+#============================Conexão COM O BANCO DE DADOS=====================================
+# Conecte-se ao banco de dados MySQL
+con <- dbConnect(drv = MariaDB(),
+                 user = "aluno",
+                 password = "sptech",
+                 host = "localhost",
+                 dbname = "dadosDia")
+
+# Carregue o dadosDia no banco de dados
+dbWriteTable(con, "dadosDia", dadosDia, overwrite = TRUE)
+
+# Desconecte-se do banco de dados MySQL
+dbDisconnect(con)

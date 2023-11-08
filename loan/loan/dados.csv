@@ -1,5 +1,5 @@
 ID_emprestimo,Genero,Casado,Dependentes,Educacao,Autonomo,CandidatoRendimento,Co_requerenteRenda,EmprestimoMontante,Prazo_EmprestimoMontante,Historico_de_Credito,AreaImovel,StatusEmprestimo
-LP001002,Homem,Não,0.00,Graduado,Não,5.849.00,0.00,,360.00,1.00,Urbano,Sim
+LP001002,Homem,Não,0.00,Graduado,Não,5.849.00,0.00,Null,360.00,1.00,Urbano,Sim
 LP001003,Homem,Sim,1.00,Graduado,Não,4.583.00,1.508.00,128.00,360.00,1.00,Rural,Não
 LP001005,Homem,Sim,0.00,Graduado,Sim,3.000.00,0.00,66.00,360.00,1.00,Urbano,Sim
 LP001006,Homem,Sim,0.00,Não Graduado,Não,2.583.00,2.358.00,120.00,360.00,1.00,Urbano,Sim
@@ -10,41 +10,41 @@ LP001014,Homem,Sim,3+,Graduado,Não,3.036.00,2.504.00,158.00,360.00,0.00,SemiUrb
 LP001018,Homem,Sim,2.00,Graduado,Não,4.006.00,1.526.00,168.00,360.00,1.00,Urbano,Sim
 LP001020,Homem,Sim,1.00,Graduado,Não,12.841.00,10.968.00,349.00,360.00,1.00,SemiUrbano,Não
 LP001024,Homem,Sim,2.00,Graduado,Não,3.200.00,700.00,70.00,360.00,1.00,Urbano,Sim
-LP001027,Homem,Sim,2.00,Graduado,,2.500.00,1.840.00,109.00,360.00,1.00,Urbano,Sim
+LP001027,Homem,Sim,2.00,Graduado,Null,2.500.00,1.840.00,109.00,360.00,1.00,Urbano,Sim
 LP001028,Homem,Sim,2.00,Graduado,Não,3.073.00,8.106.00,200.00,360.00,1.00,Urbano,Sim
 LP001029,Homem,Não,0.00,Graduado,Não,1.853.00,2.840.00,114.00,360.00,1.00,Rural,Não
 LP001030,Homem,Sim,2.00,Graduado,Não,1.299.00,1.086.00,17.00,120.00,1.00,Urbano,Sim
 LP001032,Homem,Não,0.00,Graduado,Não,4.950.00,0.00,125.00,360.00,1.00,Urbano,Sim
-LP001034,Homem,Não,1.00,Não Graduado,Não,3.596.00,0.00,100.00,240.00,,Urbano,Sim
+LP001034,Homem,Não,1.00,Não Graduado,Não,3.596.00,0.00,100.00,240.00,Null,Urbano,Sim
 LP001036,Mulher,Não,0.00,Graduado,Não,3.510.00,0.00,76.00,360.00,0.00,Urbano,Não
 LP001038,Homem,Sim,0.00,Não Graduado,Não,4.887.00,0.00,133.00,360.00,1.00,Rural,Não
-LP001041,Homem,Sim,0.00,Graduado,,2.600.00,3.500.00,115.00,,1.00,Urbano,Sim
+LP001041,Homem,Sim,0.00,Graduado,Null,2.600.00,3.500.00,115.00,Null,1.00,Urbano,Sim
 LP001043,Homem,Sim,0.00,Não Graduado,Não,7.660.00,0.00,104.00,360.00,0.00,Urbano,Não
 LP001046,Homem,Sim,1.00,Graduado,Não,5.955.00,5.625.00,315.00,360.00,1.00,Urbano,Sim
 LP001047,Homem,Sim,0.00,Não Graduado,Não,2.600.00,1.911.00,116.00,360.00,0.00,SemiUrbano,Não
-LP001050,,Sim,2.00,Não Graduado,Não,3.365.00,1.917.00,112.00,360.00,0.00,Rural,Não
-LP001052,Homem,Sim,1.00,Graduado,,3.717.00,2.925.00,151.00,360.00,,SemiUrbano,Não
+LP001050,Null,Sim,2.00,Não Graduado,Não,3.365.00,1.917.00,112.00,360.00,0.00,Rural,Não
+LP001052,Homem,Sim,1.00,Graduado,Null,3.717.00,2.925.00,151.00,360.00,Null,SemiUrbano,Não
 LP001066,Homem,Sim,0.00,Graduado,Sim,9.560.00,0.00,191.00,360.00,1.00,SemiUrbano,Sim
 LP001068,Homem,Sim,0.00,Graduado,Não,2.799.00,2.253.00,122.00,360.00,1.00,SemiUrbano,Sim
 LP001073,Homem,Sim,2.00,Não Graduado,Não,4.226.00,1.040.00,110.00,360.00,1.00,Urbano,Sim
 LP001086,Homem,Não,0.00,Não Graduado,Não,1.442.00,0.00,35.00,360.00,1.00,Urbano,Não
-LP001087,Mulher,Não,2.00,Graduado,,3.750.00,2.083.00,120.00,360.00,1.00,SemiUrbano,Sim
-LP001091,Homem,Sim,1.00,Graduado,,4.166.00,3.369.00,201.00,360.00,,Urbano,Não
+LP001087,Mulher,Não,2.00,Graduado,Null,3.750.00,2.083.00,120.00,360.00,1.00,SemiUrbano,Sim
+LP001091,Homem,Sim,1.00,Graduado,Null,4.166.00,3.369.00,201.00,360.00,Null,Urbano,Não
 LP001095,Homem,Não,0.00,Graduado,Não,3.167.00,0.00,74.00,360.00,1.00,Urbano,Não
 LP001097,Homem,Não,1.00,Graduado,Sim,4.692.00,0.00,106.00,360.00,1.00,Rural,Não
 LP001098,Homem,Sim,0.00,Graduado,Não,3.500.00,1.667.00,114.00,360.00,1.00,SemiUrbano,Sim
 LP001100,Homem,Não,3+,Graduado,Não,12.500.00,3.000.00,320.00,360.00,1.00,Rural,Não
-LP001106,Homem,Sim,0.00,Graduado,Não,2.275.00,2.067.00,,360.00,1.00,Urbano,Sim
-LP001109,Homem,Sim,0.00,Graduado,Não,1.828.00,1.330.00,100.00,,0.00,Urbano,Não
+LP001106,Homem,Sim,0.00,Graduado,Não,2.275.00,2.067.00,Null,360.00,1.00,Urbano,Sim
+LP001109,Homem,Sim,0.00,Graduado,Não,1.828.00,1.330.00,100.00,Null,0.00,Urbano,Não
 LP001112,Mulher,Sim,0.00,Graduado,Não,3.667.00,1.459.00,144.00,360.00,1.00,SemiUrbano,Sim
 LP001114,Homem,Não,0.00,Graduado,Não,4.166.00,7.210.00,184.00,360.00,1.00,Urbano,Sim
 LP001116,Homem,Não,0.00,Não Graduado,Não,3.748.00,1.668.00,110.00,360.00,1.00,SemiUrbano,Sim
 LP001119,Homem,Não,0.00,Graduado,Não,3.600.00,0.00,80.00,360.00,1.00,Urbano,Não
 LP001120,Homem,Não,0.00,Graduado,Não,1.800.00,1.213.00,47.00,360.00,1.00,Urbano,Sim
-LP001123,Homem,Sim,0.00,Graduado,Não,2.400.00,0.00,75.00,360.00,,Urbano,Sim
+LP001123,Homem,Sim,0.00,Graduado,Não,2.400.00,0.00,75.00,360.00,Null,Urbano,Sim
 LP001131,Homem,Sim,0.00,Graduado,Não,3.941.00,2.336.00,134.00,360.00,1.00,SemiUrbano,Sim
-LP001136,Homem,Sim,0.00,Não Graduado,Sim,4.695.00,0.00,96.00,,1.00,Urbano,Sim
-LP001137,Mulher,Não,0.00,Graduado,Não,3.410.00,0.00,88.00,,1.00,Urbano,Sim
+LP001136,Homem,Sim,0.00,Não Graduado,Sim,4.695.00,0.00,96.00,Null,1.00,Urbano,Sim
+LP001137,Mulher,Não,0.00,Graduado,Não,3.410.00,0.00,88.00,Null,1.00,Urbano,Sim
 LP001138,Homem,Sim,1.00,Graduado,Não,5.649.00,0.00,44.00,360.00,1.00,Urbano,Sim
 LP001144,Homem,Sim,0.00,Graduado,Não,5.821.00,0.00,144.00,360.00,1.00,Urbano,Sim
 LP001146,Mulher,Sim,0.00,Graduado,Não,2.645.00,3.440.00,120.00,360.00,0.00,Urbano,Não
@@ -62,7 +62,7 @@ LP001199,Homem,Sim,2.00,Não Graduado,Não,3.357.00,2.859.00,144.00,360.00,1.00,
 LP001205,Homem,Sim,0.00,Graduado,Não,2.500.00,3.796.00,120.00,360.00,1.00,Urbano,Sim
 LP001206,Homem,Sim,3+,Graduado,Não,3.029.00,0.00,99.00,360.00,1.00,Urbano,Sim
 LP001207,Homem,Sim,0.00,Não Graduado,Sim,2.609.00,3.449.00,165.00,180.00,0.00,Rural,Não
-LP001213,Homem,Sim,1.00,Graduado,Não,4.945.00,0.00,,360.00,0.00,Rural,Não
+LP001213,Homem,Sim,1.00,Graduado,Não,4.945.00,0.00,Null,360.00,0.00,Rural,Não
 LP001222,Mulher,Não,0.00,Graduado,Não,4.166.00,0.00,116.00,360.00,0.00,SemiUrbano,Não
 LP001225,Homem,Sim,0.00,Graduado,Não,5.726.00,4.595.00,258.00,360.00,1.00,SemiUrbano,Não
 LP001228,Homem,Não,0.00,Não Graduado,Não,3.200.00,2.254.00,126.00,180.00,0.00,Urbano,Não
@@ -72,20 +72,20 @@ LP001241,Mulher,Não,0.00,Graduado,Não,4.300.00,0.00,136.00,360.00,0.00,SemiUrb
 LP001243,Homem,Sim,0.00,Graduado,Não,3.208.00,3.066.00,172.00,360.00,1.00,Urbano,Sim
 LP001245,Homem,Sim,2.00,Não Graduado,Sim,1.875.00,1.875.00,97.00,360.00,1.00,SemiUrbano,Sim
 LP001248,Homem,Não,0.00,Graduado,Não,3.500.00,0.00,81.00,300.00,1.00,SemiUrbano,Sim
-LP001250,Homem,Sim,3+,Não Graduado,Não,4.755.00,0.00,95.00,,0.00,SemiUrbano,Não
+LP001250,Homem,Sim,3+,Não Graduado,Não,4.755.00,0.00,95.00,Null,0.00,SemiUrbano,Não
 LP001253,Homem,Sim,3+,Graduado,Sim,5.266.00,1.774.00,187.00,360.00,1.00,SemiUrbano,Sim
 LP001255,Homem,Não,0.00,Graduado,Não,3.750.00,0.00,113.00,480.00,1.00,Urbano,Não
 LP001256,Homem,Não,0.00,Graduado,Não,3.750.00,4.750.00,176.00,360.00,1.00,Urbano,Não
 LP001259,Homem,Sim,1.00,Graduado,Sim,1.000.00,3.022.00,110.00,360.00,1.00,Urbano,Não
 LP001263,Homem,Sim,3+,Graduado,Não,3.167.00,4.000.00,180.00,300.00,0.00,SemiUrbano,Não
-LP001264,Homem,Sim,3+,Não Graduado,Sim,3.333.00,2.166.00,130.00,360.00,,SemiUrbano,Sim
+LP001264,Homem,Sim,3+,Não Graduado,Sim,3.333.00,2.166.00,130.00,360.00,Null,SemiUrbano,Sim
 LP001265,Mulher,Não,0.00,Graduado,Não,3.846.00,0.00,111.00,360.00,1.00,SemiUrbano,Sim
-LP001266,Homem,Sim,1.00,Graduado,Sim,2.395.00,0.00,,360.00,1.00,SemiUrbano,Sim
+LP001266,Homem,Sim,1.00,Graduado,Sim,2.395.00,0.00,Null,360.00,1.00,SemiUrbano,Sim
 LP001267,Mulher,Sim,2.00,Graduado,Não,1.378.00,1.881.00,167.00,360.00,1.00,Urbano,Não
-LP001273,Homem,Sim,0.00,Graduado,Não,6.000.00,2.250.00,265.00,360.00,,SemiUrbano,Não
+LP001273,Homem,Sim,0.00,Graduado,Não,6.000.00,2.250.00,265.00,360.00,Null,SemiUrbano,Não
 LP001275,Homem,Sim,1.00,Graduado,Não,3.988.00,0.00,50.00,240.00,1.00,Urbano,Sim
 LP001279,Homem,Não,0.00,Graduado,Não,2.366.00,2.531.00,136.00,360.00,1.00,SemiUrbano,Sim
-LP001280,Homem,Sim,2.00,Não Graduado,Não,3.333.00,2.000.00,99.00,360.00,,SemiUrbano,Sim
+LP001280,Homem,Sim,2.00,Não Graduado,Não,3.333.00,2.000.00,99.00,360.00,Null,SemiUrbano,Sim
 LP001282,Homem,Sim,0.00,Graduado,Não,2.500.00,2.118.00,104.00,360.00,1.00,SemiUrbano,Sim
 LP001289,Homem,Não,0.00,Graduado,Não,8.566.00,0.00,210.00,360.00,1.00,Urbano,Sim
 LP001310,Homem,Sim,0.00,Graduado,Não,5.695.00,4.167.00,175.00,360.00,1.00,SemiUrbano,Sim
@@ -94,42 +94,42 @@ LP001318,Homem,Sim,2.00,Graduado,Não,6.250.00,5.654.00,188.00,180.00,1.00,SemiU
 LP001319,Homem,Sim,2.00,Não Graduado,Não,3.273.00,1.820.00,81.00,360.00,1.00,Urbano,Sim
 LP001322,Homem,Não,0.00,Graduado,Não,4.133.00,0.00,122.00,360.00,1.00,SemiUrbano,Sim
 LP001325,Homem,Não,0.00,Não Graduado,Não,3.620.00,0.00,25.00,120.00,1.00,SemiUrbano,Sim
-LP001326,Homem,Não,0.00,Graduado,,6.782.00,0.00,,360.00,,Urbano,Não
+LP001326,Homem,Não,0.00,Graduado,Null,6.782.00,0.00,Null,360.00,Null,Urbano,Não
 LP001327,Mulher,Sim,0.00,Graduado,Não,2.484.00,2.302.00,137.00,360.00,1.00,SemiUrbano,Sim
 LP001333,Homem,Sim,0.00,Graduado,Não,1.977.00,997.00,50.00,360.00,1.00,SemiUrbano,Sim
 LP001334,Homem,Sim,0.00,Não Graduado,Não,4.188.00,0.00,115.00,180.00,1.00,SemiUrbano,Sim
 LP001343,Homem,Sim,0.00,Graduado,Não,1.759.00,3.541.00,131.00,360.00,1.00,SemiUrbano,Sim
 LP001345,Homem,Sim,2.00,Não Graduado,Não,4.288.00,3.263.00,133.00,180.00,1.00,Urbano,Sim
 LP001349,Homem,Não,0.00,Graduado,Não,4.843.00,3.806.00,151.00,360.00,1.00,SemiUrbano,Sim
-LP001350,Homem,Sim,,Graduado,Não,13.650.00,0.00,,360.00,1.00,Urbano,Sim
-LP001356,Homem,Sim,0.00,Graduado,Não,4.652.00,3.583.00,,360.00,1.00,SemiUrbano,Sim
-LP001357,Homem,,,Graduado,Não,3.816.00,754.00,160.00,360.00,1.00,Urbano,Sim
+LP001350,Homem,Sim,Null,Graduado,Não,13.650.00,0.00,Null,360.00,1.00,Urbano,Sim
+LP001356,Homem,Sim,0.00,Graduado,Não,4.652.00,3.583.00,Null,360.00,1.00,SemiUrbano,Sim
+LP001357,Homem,Null,Null,Graduado,Não,3.816.00,754.00,160.00,360.00,1.00,Urbano,Sim
 LP001367,Homem,Sim,1.00,Graduado,Não,3.052.00,1.030.00,100.00,360.00,1.00,Urbano,Sim
 LP001369,Homem,Sim,2.00,Graduado,Não,11.417.00,1.126.00,225.00,360.00,1.00,Urbano,Sim
-LP001370,Homem,Não,0.00,Não Graduado,,7.333.00,0.00,120.00,360.00,1.00,Rural,Não
+LP001370,Homem,Não,0.00,Não Graduado,Null,7.333.00,0.00,120.00,360.00,1.00,Rural,Não
 LP001379,Homem,Sim,2.00,Graduado,Não,3.800.00,3.600.00,216.00,360.00,0.00,Urbano,Não
 LP001384,Homem,Sim,3+,Não Graduado,Não,2.071.00,754.00,94.00,480.00,1.00,SemiUrbano,Sim
 LP001385,Homem,Não,0.00,Graduado,Não,5.316.00,0.00,136.00,360.00,1.00,Urbano,Sim
-LP001387,Mulher,Sim,0.00,Graduado,,2.929.00,2.333.00,139.00,360.00,1.00,SemiUrbano,Sim
-LP001391,Homem,Sim,0.00,Não Graduado,Não,3.572.00,4.114.00,152.00,,0.00,Rural,Não
-LP001392,Mulher,Não,1.00,Graduado,Sim,7.451.00,0.00,,360.00,1.00,SemiUrbano,Sim
-LP001398,Homem,Não,0.00,Graduado,,5.050.00,0.00,118.00,360.00,1.00,SemiUrbano,Sim
+LP001387,Mulher,Sim,0.00,Graduado,Null,2.929.00,2.333.00,139.00,360.00,1.00,SemiUrbano,Sim
+LP001391,Homem,Sim,0.00,Não Graduado,Não,3.572.00,4.114.00,152.00,Null,0.00,Rural,Não
+LP001392,Mulher,Não,1.00,Graduado,Sim,7.451.00,0.00,Null,360.00,1.00,SemiUrbano,Sim
+LP001398,Homem,Não,0.00,Graduado,Null,5.050.00,0.00,118.00,360.00,1.00,SemiUrbano,Sim
 LP001401,Homem,Sim,1.00,Graduado,Não,14.583.00,0.00,185.00,180.00,1.00,Rural,Sim
 LP001404,Mulher,Sim,0.00,Graduado,Não,3.167.00,2.283.00,154.00,360.00,1.00,SemiUrbano,Sim
-LP001405,Homem,Sim,1.00,Graduado,Não,2.214.00,1.398.00,85.00,360.00,,Urbano,Sim
+LP001405,Homem,Sim,1.00,Graduado,Não,2.214.00,1.398.00,85.00,360.00,Null,Urbano,Sim
 LP001421,Homem,Sim,0.00,Graduado,Não,5.568.00,2.142.00,175.00,360.00,1.00,Rural,Não
 LP001422,Mulher,Não,0.00,Graduado,Não,10.408.00,0.00,259.00,360.00,1.00,Urbano,Sim
-LP001426,Homem,Sim,,Graduado,Não,5.667.00,2.667.00,180.00,360.00,1.00,Rural,Sim
+LP001426,Homem,Sim,Null,Graduado,Não,5.667.00,2.667.00,180.00,360.00,1.00,Rural,Sim
 LP001430,Mulher,Não,0.00,Graduado,Não,4.166.00,0.00,44.00,360.00,1.00,SemiUrbano,Sim
 LP001431,Mulher,Não,0.00,Graduado,Não,2.137.00,8.980.00,137.00,360.00,0.00,SemiUrbano,Sim
 LP001432,Homem,Sim,2.00,Graduado,Não,2.957.00,0.00,81.00,360.00,1.00,SemiUrbano,Sim
 LP001439,Homem,Sim,0.00,Não Graduado,Não,4.300.00,2.014.00,194.00,360.00,1.00,Rural,Sim
-LP001443,Mulher,Não,0.00,Graduado,Não,3.692.00,0.00,93.00,360.00,,Rural,Sim
-LP001448,,Sim,3+,Graduado,Não,23.803.00,0.00,370.00,360.00,1.00,Rural,Sim
-LP001449,Homem,Não,0.00,Graduado,Não,3.865.00,1.640.00,,360.00,1.00,Rural,Sim
+LP001443,Mulher,Não,0.00,Graduado,Não,3.692.00,0.00,93.00,360.00,Null,Rural,Sim
+LP001448,Null,Sim,3+,Graduado,Não,23.803.00,0.00,370.00,360.00,1.00,Rural,Sim
+LP001449,Homem,Não,0.00,Graduado,Não,3.865.00,1.640.00,Null,360.00,1.00,Rural,Sim
 LP001451,Homem,Sim,1.00,Graduado,Sim,10.513.00,3.850.00,160.00,180.00,0.00,Urbano,Não
-LP001465,Homem,Sim,0.00,Graduado,Não,6.080.00,2.569.00,182.00,360.00,,Rural,Não
-LP001469,Homem,Não,0.00,Graduado,Sim,20.166.00,0.00,650.00,480.00,,Urbano,Sim
+LP001465,Homem,Sim,0.00,Graduado,Não,6.080.00,2.569.00,182.00,360.00,Null,Rural,Não
+LP001469,Homem,Não,0.00,Graduado,Sim,20.166.00,0.00,650.00,480.00,Null,Urbano,Sim
 LP001473,Homem,Não,0.00,Graduado,Não,2.014.00,1.929.00,74.00,360.00,1.00,Urbano,Sim
 LP001478,Homem,Não,0.00,Graduado,Não,2.718.00,0.00,70.00,360.00,1.00,SemiUrbano,Sim
 LP001482,Homem,Sim,0.00,Graduado,Sim,3.459.00,0.00,25.00,120.00,1.00,SemiUrbano,Sim
@@ -155,22 +155,22 @@ LP001531,Homem,Não,0.00,Graduado,Não,9.166.00,0.00,244.00,360.00,1.00,Urbano,N
 LP001532,Homem,Sim,2.00,Não Graduado,Não,2.281.00,0.00,113.00,360.00,1.00,Rural,Não
 LP001535,Homem,Não,0.00,Graduado,Não,3.254.00,0.00,50.00,360.00,1.00,Urbano,Sim
 LP001536,Homem,Sim,3+,Graduado,Não,39.999.00,0.00,600.00,180.00,0.00,SemiUrbano,Sim
-LP001541,Homem,Sim,1.00,Graduado,Não,6.000.00,0.00,160.00,360.00,,Rural,Sim
+LP001541,Homem,Sim,1.00,Graduado,Não,6.000.00,0.00,160.00,360.00,Null,Rural,Sim
 LP001543,Homem,Sim,1.00,Graduado,Não,9.538.00,0.00,187.00,360.00,1.00,Urbano,Sim
-LP001546,Homem,Não,0.00,Graduado,,2.980.00,2.083.00,120.00,360.00,1.00,Rural,Sim
+LP001546,Homem,Não,0.00,Graduado,Null,2.980.00,2.083.00,120.00,360.00,1.00,Rural,Sim
 LP001552,Homem,Sim,0.00,Graduado,Não,4.583.00,5.625.00,255.00,360.00,1.00,SemiUrbano,Sim
 LP001560,Homem,Sim,0.00,Não Graduado,Não,1.863.00,1.041.00,98.00,360.00,1.00,SemiUrbano,Sim
 LP001562,Homem,Sim,0.00,Graduado,Não,7.933.00,0.00,275.00,360.00,1.00,Urbano,Não
 LP001565,Homem,Sim,1.00,Graduado,Não,3.089.00,1.280.00,121.00,360.00,0.00,SemiUrbano,Não
 LP001570,Homem,Sim,2.00,Graduado,Não,4.167.00,1.447.00,158.00,360.00,1.00,Rural,Sim
 LP001572,Homem,Sim,0.00,Graduado,Não,9.323.00,0.00,75.00,180.00,1.00,Urbano,Sim
-LP001574,Homem,Sim,0.00,Graduado,Não,3.707.00,3.166.00,182.00,,1.00,Rural,Sim
+LP001574,Homem,Sim,0.00,Graduado,Não,3.707.00,3.166.00,182.00,Null,1.00,Rural,Sim
 LP001577,Mulher,Sim,0.00,Graduado,Não,4.583.00,0.00,112.00,360.00,1.00,Rural,Não
 LP001578,Homem,Sim,0.00,Graduado,Não,2.439.00,3.333.00,129.00,360.00,1.00,Rural,Sim
 LP001579,Homem,Não,0.00,Graduado,Não,2.237.00,0.00,63.00,480.00,0.00,SemiUrbano,Não
 LP001580,Homem,Sim,2.00,Graduado,Não,8.000.00,0.00,200.00,360.00,1.00,SemiUrbano,Sim
-LP001581,Homem,Sim,0.00,Não Graduado,,1.820.00,1.769.00,95.00,360.00,1.00,Rural,Sim
-LP001585,,Sim,3+,Graduado,Não,51.763.00,0.00,700.00,300.00,1.00,Urbano,Sim
+LP001581,Homem,Sim,0.00,Não Graduado,Null,1.820.00,1.769.00,95.00,360.00,1.00,Rural,Sim
+LP001585,Null,Sim,3+,Graduado,Não,51.763.00,0.00,700.00,300.00,1.00,Urbano,Sim
 LP001586,Homem,Sim,3+,Não Graduado,Não,3.522.00,0.00,81.00,180.00,1.00,Rural,Não
 LP001594,Homem,Sim,0.00,Graduado,Não,5.708.00,5.625.00,187.00,360.00,1.00,SemiUrbano,Sim
 LP001603,Homem,Sim,0.00,Não Graduado,Sim,4.344.00,736.00,87.00,360.00,1.00,SemiUrbano,Não
@@ -180,14 +180,14 @@ LP001610,Homem,Sim,3+,Graduado,Não,5.516.00,11.300.00,495.00,360.00,0.00,SemiUr
 LP001616,Homem,Sim,1.00,Graduado,Não,3.750.00,0.00,116.00,360.00,1.00,SemiUrbano,Sim
 LP001630,Homem,Não,0.00,Não Graduado,Não,2.333.00,1.451.00,102.00,480.00,0.00,Urbano,Não
 LP001633,Homem,Sim,1.00,Graduado,Não,6.400.00,7.250.00,180.00,360.00,0.00,Urbano,Não
-LP001634,Homem,Não,0.00,Graduado,Não,1.916.00,5.063.00,67.00,360.00,,Rural,Não
+LP001634,Homem,Não,0.00,Graduado,Não,1.916.00,5.063.00,67.00,360.00,Null,Rural,Não
 LP001636,Homem,Sim,0.00,Graduado,Não,4.600.00,0.00,73.00,180.00,1.00,SemiUrbano,Sim
 LP001637,Homem,Sim,1.00,Graduado,Não,33.846.00,0.00,260.00,360.00,1.00,SemiUrbano,Não
 LP001639,Mulher,Sim,0.00,Graduado,Não,3.625.00,0.00,108.00,360.00,1.00,SemiUrbano,Sim
 LP001640,Homem,Sim,0.00,Graduado,Sim,39.147.00,4.750.00,120.00,360.00,1.00,SemiUrbano,Sim
 LP001641,Homem,Sim,1.00,Graduado,Sim,2.178.00,0.00,66.00,300.00,0.00,Rural,Não
-LP001643,Homem,Sim,0.00,Graduado,Não,2.383.00,2.138.00,58.00,360.00,,Rural,Sim
-LP001644,,Sim,0.00,Graduado,Sim,674.00,5.296.00,168.00,360.00,1.00,Rural,Sim
+LP001643,Homem,Sim,0.00,Graduado,Não,2.383.00,2.138.00,58.00,360.00,Null,Rural,Sim
+LP001644,Null,Sim,0.00,Graduado,Sim,674.00,5.296.00,168.00,360.00,1.00,Rural,Sim
 LP001647,Homem,Sim,0.00,Graduado,Não,9.328.00,0.00,188.00,180.00,1.00,Rural,Sim
 LP001653,Homem,Não,0.00,Não Graduado,Não,4.885.00,0.00,48.00,360.00,1.00,Rural,Sim
 LP001656,Homem,Não,0.00,Graduado,Não,12.000.00,0.00,164.00,360.00,1.00,SemiUrbano,Não
@@ -196,12 +196,12 @@ LP001658,Homem,Não,0.00,Graduado,Não,3.858.00,0.00,76.00,360.00,1.00,SemiUrban
 LP001664,Homem,Não,0.00,Graduado,Não,4.191.00,0.00,120.00,360.00,1.00,Rural,Sim
 LP001665,Homem,Sim,1.00,Graduado,Não,3.125.00,2.583.00,170.00,360.00,1.00,SemiUrbano,Não
 LP001666,Homem,Não,0.00,Graduado,Não,8.333.00,3.750.00,187.00,360.00,1.00,Rural,Sim
-LP001669,Mulher,Não,0.00,Não Graduado,Não,1.907.00,2.365.00,120.00,,1.00,Urbano,Sim
-LP001671,Mulher,Sim,0.00,Graduado,Não,3.416.00,2.816.00,113.00,360.00,,SemiUrbano,Sim
+LP001669,Mulher,Não,0.00,Não Graduado,Não,1.907.00,2.365.00,120.00,Null,1.00,Urbano,Sim
+LP001671,Mulher,Sim,0.00,Graduado,Não,3.416.00,2.816.00,113.00,360.00,Null,SemiUrbano,Sim
 LP001673,Homem,Não,0.00,Graduado,Sim,11.000.00,0.00,83.00,360.00,1.00,Urbano,Não
 LP001674,Homem,Sim,1.00,Não Graduado,Não,2.600.00,2.500.00,90.00,360.00,1.00,SemiUrbano,Sim
 LP001677,Homem,Não,2.00,Graduado,Não,4.923.00,0.00,166.00,360.00,0.00,SemiUrbano,Sim
-LP001682,Homem,Sim,3+,Não Graduado,Não,3.992.00,0.00,,180.00,1.00,Urbano,Não
+LP001682,Homem,Sim,3+,Não Graduado,Não,3.992.00,0.00,Null,180.00,1.00,Urbano,Não
 LP001688,Homem,Sim,1.00,Não Graduado,Não,3.500.00,1.083.00,135.00,360.00,1.00,Urbano,Sim
 LP001691,Homem,Sim,2.00,Não Graduado,Não,3.917.00,0.00,124.00,360.00,1.00,SemiUrbano,Sim
 LP001692,Mulher,Não,0.00,Não Graduado,Não,4.408.00,0.00,120.00,360.00,1.00,SemiUrbano,Sim
@@ -217,26 +217,26 @@ LP001716,Homem,Sim,0.00,Graduado,Não,3.173.00,3.021.00,137.00,360.00,1.00,Urban
 LP001720,Homem,Sim,3+,Não Graduado,Não,3.850.00,983.00,100.00,360.00,1.00,SemiUrbano,Sim
 LP001722,Homem,Sim,0.00,Graduado,Não,150.00,1.800.00,135.00,360.00,1.00,Rural,Não
 LP001726,Homem,Sim,0.00,Graduado,Não,3.727.00,1.775.00,131.00,360.00,1.00,SemiUrbano,Sim
-LP001732,Homem,Sim,2.00,Graduado,,5.000.00,0.00,72.00,360.00,0.00,SemiUrbano,Não
-LP001734,Mulher,Sim,2.00,Graduado,Não,4.283.00,2.383.00,127.00,360.00,,SemiUrbano,Sim
+LP001732,Homem,Sim,2.00,Graduado,Null,5.000.00,0.00,72.00,360.00,0.00,SemiUrbano,Não
+LP001734,Mulher,Sim,2.00,Graduado,Não,4.283.00,2.383.00,127.00,360.00,Null,SemiUrbano,Sim
 LP001736,Homem,Sim,0.00,Graduado,Não,2.221.00,0.00,60.00,360.00,0.00,Urbano,Não
 LP001743,Homem,Sim,2.00,Graduado,Não,4.009.00,1.717.00,116.00,360.00,1.00,SemiUrbano,Sim
 LP001744,Homem,Não,0.00,Graduado,Não,2.971.00,2.791.00,144.00,360.00,1.00,SemiUrbano,Sim
-LP001749,Homem,Sim,0.00,Graduado,Não,7.578.00,1.010.00,175.00,,1.00,SemiUrbano,Sim
+LP001749,Homem,Sim,0.00,Graduado,Não,7.578.00,1.010.00,175.00,Null,1.00,SemiUrbano,Sim
 LP001750,Homem,Sim,0.00,Graduado,Não,6.250.00,0.00,128.00,360.00,1.00,SemiUrbano,Sim
 LP001751,Homem,Sim,0.00,Graduado,Não,3.250.00,0.00,170.00,360.00,1.00,Rural,Não
-LP001754,Homem,Sim,,Não Graduado,Sim,4.735.00,0.00,138.00,360.00,1.00,Urbano,Não
+LP001754,Homem,Sim,Null,Não Graduado,Sim,4.735.00,0.00,138.00,360.00,1.00,Urbano,Não
 LP001758,Homem,Sim,2.00,Graduado,Não,6.250.00,1.695.00,210.00,360.00,1.00,SemiUrbano,Sim
-LP001760,Homem,,,Graduado,Não,4.758.00,0.00,158.00,480.00,1.00,SemiUrbano,Sim
+LP001760,Homem,Null,Null,Graduado,Não,4.758.00,0.00,158.00,480.00,1.00,SemiUrbano,Sim
 LP001761,Homem,Não,0.00,Graduado,Sim,6.400.00,0.00,200.00,360.00,1.00,Rural,Sim
 LP001765,Homem,Sim,1.00,Graduado,Não,2.491.00,2.054.00,104.00,360.00,1.00,SemiUrbano,Sim
-LP001768,Homem,Sim,0.00,Graduado,,3.716.00,0.00,42.00,180.00,1.00,Rural,Sim
-LP001770,Homem,Não,0.00,Não Graduado,Não,3.189.00,2.598.00,120.00,,1.00,Rural,Sim
+LP001768,Homem,Sim,0.00,Graduado,Null,3.716.00,0.00,42.00,180.00,1.00,Rural,Sim
+LP001770,Homem,Não,0.00,Não Graduado,Não,3.189.00,2.598.00,120.00,Null,1.00,Rural,Sim
 LP001776,Mulher,Não,0.00,Graduado,Não,8.333.00,0.00,280.00,360.00,1.00,SemiUrbano,Sim
 LP001778,Homem,Sim,1.00,Graduado,Não,3.155.00,1.779.00,140.00,360.00,1.00,SemiUrbano,Sim
 LP001784,Homem,Sim,1.00,Graduado,Não,5.500.00,1.260.00,170.00,360.00,1.00,Rural,Sim
-LP001786,Homem,Sim,0.00,Graduado,,5.746.00,0.00,255.00,360.00,,Urbano,Não
-LP001788,Mulher,Não,0.00,Graduado,Sim,3.463.00,0.00,122.00,360.00,,Urbano,Sim
+LP001786,Homem,Sim,0.00,Graduado,Null,5.746.00,0.00,255.00,360.00,Null,Urbano,Não
+LP001788,Mulher,Não,0.00,Graduado,Sim,3.463.00,0.00,122.00,360.00,Null,Urbano,Sim
 LP001790,Mulher,Não,1.00,Graduado,Não,3.812.00,0.00,112.00,360.00,1.00,Rural,Sim
 LP001792,Homem,Sim,1.00,Graduado,Não,3.315.00,0.00,96.00,360.00,1.00,SemiUrbano,Sim
 LP001798,Homem,Sim,2.00,Graduado,Não,5.819.00,5.000.00,120.00,360.00,1.00,Rural,Sim
@@ -258,8 +258,8 @@ LP001846,Mulher,Não,3+,Graduado,Não,3.083.00,0.00,255.00,360.00,1.00,Rural,Sim
 LP001849,Homem,Não,0.00,Não Graduado,Não,6.045.00,0.00,115.00,360.00,0.00,Rural,Não
 LP001854,Homem,Sim,3+,Graduado,Não,5.250.00,0.00,94.00,360.00,1.00,Urbano,Não
 LP001859,Homem,Sim,0.00,Graduado,Não,14.683.00,2.100.00,304.00,360.00,1.00,Rural,Não
-LP001864,Homem,Sim,3+,Não Graduado,Não,4.931.00,0.00,128.00,360.00,,SemiUrbano,Não
-LP001865,Homem,Sim,1.00,Graduado,Não,6.083.00,4.250.00,330.00,360.00,,Urbano,Sim
+LP001864,Homem,Sim,3+,Não Graduado,Não,4.931.00,0.00,128.00,360.00,Null,SemiUrbano,Não
+LP001865,Homem,Sim,1.00,Graduado,Não,6.083.00,4.250.00,330.00,360.00,Null,Urbano,Sim
 LP001868,Homem,Não,0.00,Graduado,Não,2.060.00,2.209.00,134.00,360.00,1.00,SemiUrbano,Sim
 LP001870,Mulher,Não,1.00,Graduado,Não,3.481.00,0.00,155.00,36.00,1.00,SemiUrbano,Não
 LP001871,Mulher,Não,0.00,Graduado,Não,7.200.00,0.00,120.00,360.00,1.00,Rural,Sim
@@ -267,7 +267,7 @@ LP001872,Homem,Não,0.00,Graduado,Sim,5.166.00,0.00,128.00,360.00,1.00,SemiUrban
 LP001875,Homem,Não,0.00,Graduado,Não,4.095.00,3.447.00,151.00,360.00,1.00,Rural,Sim
 LP001877,Homem,Sim,2.00,Graduado,Não,4.708.00,1.387.00,150.00,360.00,1.00,SemiUrbano,Sim
 LP001882,Homem,Sim,3+,Graduado,Não,4.333.00,1.811.00,160.00,360.00,0.00,Urbano,Sim
-LP001883,Mulher,Não,0.00,Graduado,,3.418.00,0.00,135.00,360.00,1.00,Rural,Não
+LP001883,Mulher,Não,0.00,Graduado,Null,3.418.00,0.00,135.00,360.00,1.00,Rural,Não
 LP001884,Mulher,Não,1.00,Graduado,Não,2.876.00,1.560.00,90.00,360.00,1.00,Urbano,Sim
 LP001888,Mulher,Não,0.00,Graduado,Não,3.237.00,0.00,30.00,360.00,1.00,Urbano,Sim
 LP001891,Homem,Sim,0.00,Graduado,Não,11.146.00,0.00,136.00,360.00,1.00,Urbano,Sim
@@ -278,12 +278,12 @@ LP001900,Homem,Sim,1.00,Graduado,Não,2.750.00,1.842.00,115.00,360.00,1.00,SemiU
 LP001903,Homem,Sim,0.00,Graduado,Não,3.993.00,3.274.00,207.00,360.00,1.00,SemiUrbano,Sim
 LP001904,Homem,Sim,0.00,Graduado,Não,3.103.00,1.300.00,80.00,360.00,1.00,Urbano,Sim
 LP001907,Homem,Sim,0.00,Graduado,Não,14.583.00,0.00,436.00,360.00,1.00,SemiUrbano,Sim
-LP001908,Mulher,Sim,0.00,Não Graduado,Não,4.100.00,0.00,124.00,360.00,,Rural,Sim
+LP001908,Mulher,Sim,0.00,Não Graduado,Não,4.100.00,0.00,124.00,360.00,Null,Rural,Sim
 LP001910,Homem,Não,1.00,Não Graduado,Sim,4.053.00,2.426.00,158.00,360.00,0.00,Urbano,Não
 LP001914,Homem,Sim,0.00,Graduado,Não,3.927.00,800.00,112.00,360.00,1.00,SemiUrbano,Sim
 LP001915,Homem,Sim,2.00,Graduado,Não,2.301.00,9.857.999.878.00,78.00,180.00,1.00,Urbano,Sim
 LP001917,Mulher,Não,0.00,Graduado,Não,1.811.00,1.666.00,54.00,360.00,1.00,Urbano,Sim
-LP001922,Homem,Sim,0.00,Graduado,Não,20.667.00,0.00,,360.00,1.00,Rural,Não
+LP001922,Homem,Sim,0.00,Graduado,Não,20.667.00,0.00,Null,360.00,1.00,Rural,Não
 LP001924,Homem,Não,0.00,Graduado,Não,3.158.00,3.053.00,89.00,360.00,1.00,Rural,Sim
 LP001925,Mulher,Não,0.00,Graduado,Sim,2.600.00,1.717.00,99.00,300.00,1.00,SemiUrbano,Não
 LP001926,Homem,Sim,0.00,Graduado,Não,3.704.00,2.000.00,120.00,360.00,1.00,Rural,Sim
@@ -292,37 +292,37 @@ LP001935,Homem,Não,0.00,Graduado,Não,9.508.00,0.00,187.00,360.00,1.00,Rural,Si
 LP001936,Homem,Sim,0.00,Graduado,Não,3.075.00,2.416.00,139.00,360.00,1.00,Rural,Sim
 LP001938,Homem,Sim,2.00,Graduado,Não,4.400.00,0.00,127.00,360.00,0.00,SemiUrbano,Não
 LP001940,Homem,Sim,2.00,Graduado,Não,3.153.00,1.560.00,134.00,360.00,1.00,Urbano,Sim
-LP001945,Mulher,Não,,Graduado,Não,5.417.00,0.00,143.00,480.00,0.00,Urbano,Não
+LP001945,Mulher,Não,Null,Graduado,Não,5.417.00,0.00,143.00,480.00,0.00,Urbano,Não
 LP001947,Homem,Sim,0.00,Graduado,Não,2.383.00,3.334.00,172.00,360.00,1.00,SemiUrbano,Sim
-LP001949,Homem,Sim,3+,Graduado,,4.416.00,1.250.00,110.00,360.00,1.00,Urbano,Sim
+LP001949,Homem,Sim,3+,Graduado,Null,4.416.00,1.250.00,110.00,360.00,1.00,Urbano,Sim
 LP001953,Homem,Sim,1.00,Graduado,Não,6.875.00,0.00,200.00,360.00,1.00,SemiUrbano,Sim
 LP001954,Mulher,Sim,1.00,Graduado,Não,4.666.00,0.00,135.00,360.00,1.00,Urbano,Sim
 LP001955,Mulher,Não,0.00,Graduado,Não,5.000.00,2.541.00,151.00,480.00,1.00,Rural,Não
 LP001963,Homem,Sim,1.00,Graduado,Não,2.014.00,2.925.00,113.00,360.00,1.00,Urbano,Não
 LP001964,Homem,Sim,0.00,Não Graduado,Não,1.800.00,2.934.00,93.00,360.00,0.00,Urbano,Não
-LP001972,Homem,Sim,,Não Graduado,Não,2.875.00,1.750.00,105.00,360.00,1.00,SemiUrbano,Sim
+LP001972,Homem,Sim,Null,Não Graduado,Não,2.875.00,1.750.00,105.00,360.00,1.00,SemiUrbano,Sim
 LP001974,Mulher,Não,0.00,Graduado,Não,5.000.00,0.00,132.00,360.00,1.00,Rural,Sim
 LP001977,Homem,Sim,1.00,Graduado,Não,1.625.00,1.803.00,96.00,360.00,1.00,Urbano,Sim
 LP001978,Homem,Não,0.00,Graduado,Não,4.000.00,2.500.00,140.00,360.00,1.00,Rural,Sim
-LP001990,Homem,Não,0.00,Não Graduado,Não,2.000.00,0.00,,360.00,1.00,Urbano,Não
+LP001990,Homem,Não,0.00,Não Graduado,Não,2.000.00,0.00,Null,360.00,1.00,Urbano,Não
 LP001993,Mulher,Não,0.00,Graduado,Não,3.762.00,1.666.00,135.00,360.00,1.00,Rural,Sim
 LP001994,Mulher,Não,0.00,Graduado,Não,2.400.00,1.863.00,104.00,360.00,0.00,Urbano,Não
 LP001996,Homem,Não,0.00,Graduado,Não,20.233.00,0.00,480.00,360.00,1.00,Rural,Não
-LP001998,Homem,Sim,2.00,Não Graduado,Não,7.667.00,0.00,185.00,360.00,,Rural,Sim
+LP001998,Homem,Sim,2.00,Não Graduado,Não,7.667.00,0.00,185.00,360.00,Null,Rural,Sim
 LP002002,Mulher,Não,0.00,Graduado,Não,2.917.00,0.00,84.00,360.00,1.00,SemiUrbano,Sim
 LP002004,Homem,Não,0.00,Não Graduado,Não,2.927.00,2.405.00,111.00,360.00,1.00,SemiUrbano,Sim
 LP002006,Mulher,Não,0.00,Graduado,Não,2.507.00,0.00,56.00,360.00,1.00,Rural,Sim
-LP002008,Homem,Sim,2.00,Graduado,Sim,5.746.00,0.00,144.00,84.00,,Rural,Sim
-LP002024,,Sim,0.00,Graduado,Não,2.473.00,1.843.00,159.00,360.00,1.00,Rural,Não
+LP002008,Homem,Sim,2.00,Graduado,Sim,5.746.00,0.00,144.00,84.00,Null,Rural,Sim
+LP002024,Null,Sim,0.00,Graduado,Não,2.473.00,1.843.00,159.00,360.00,1.00,Rural,Não
 LP002031,Homem,Sim,1.00,Não Graduado,Não,3.399.00,1.640.00,111.00,180.00,1.00,Urbano,Sim
 LP002035,Homem,Sim,2.00,Graduado,Não,3.717.00,0.00,120.00,360.00,1.00,SemiUrbano,Sim
-LP002036,Homem,Sim,0.00,Graduado,Não,2.058.00,2.134.00,88.00,360.00,,Urbano,Sim
-LP002043,Mulher,Não,1.00,Graduado,Não,3.541.00,0.00,112.00,360.00,,SemiUrbano,Sim
+LP002036,Homem,Sim,0.00,Graduado,Não,2.058.00,2.134.00,88.00,360.00,Null,Urbano,Sim
+LP002043,Mulher,Não,1.00,Graduado,Não,3.541.00,0.00,112.00,360.00,Null,SemiUrbano,Sim
 LP002050,Homem,Sim,1.00,Graduado,Sim,10.000.00,0.00,155.00,360.00,1.00,Rural,Não
 LP002051,Homem,Sim,0.00,Graduado,Não,2.400.00,2.167.00,115.00,360.00,1.00,SemiUrbano,Sim
 LP002053,Homem,Sim,3+,Graduado,Não,4.342.00,189.00,124.00,360.00,1.00,SemiUrbano,Sim
-LP002054,Homem,Sim,2.00,Não Graduado,Não,3.601.00,1.590.00,,360.00,1.00,Rural,Sim
-LP002055,Mulher,Não,0.00,Graduado,Não,3.166.00,2.985.00,132.00,360.00,,Rural,Sim
+LP002054,Homem,Sim,2.00,Não Graduado,Não,3.601.00,1.590.00,Null,360.00,1.00,Rural,Sim
+LP002055,Mulher,Não,0.00,Graduado,Não,3.166.00,2.985.00,132.00,360.00,Null,Rural,Sim
 LP002065,Homem,Sim,3+,Graduado,Não,15.000.00,0.00,300.00,360.00,1.00,Rural,Sim
 LP002067,Homem,Sim,1.00,Graduado,Sim,8.666.00,4.983.00,376.00,360.00,0.00,Rural,Não
 LP002068,Homem,Não,0.00,Graduado,Não,4.917.00,0.00,130.00,360.00,0.00,Rural,Sim
@@ -331,30 +331,30 @@ LP002086,Mulher,Sim,0.00,Graduado,Não,4.333.00,2.451.00,110.00,360.00,1.00,Urba
 LP002087,Mulher,Não,0.00,Graduado,Não,2.500.00,0.00,67.00,360.00,1.00,Urbano,Sim
 LP002097,Homem,Não,1.00,Graduado,Não,4.384.00,1.793.00,117.00,360.00,1.00,Urbano,Sim
 LP002098,Homem,Não,0.00,Graduado,Não,2.935.00,0.00,98.00,360.00,1.00,SemiUrbano,Sim
-LP002100,Homem,Não,,Graduado,Não,2.833.00,0.00,71.00,360.00,1.00,Urbano,Sim
-LP002101,Homem,Sim,0.00,Graduado,,63.337.00,0.00,490.00,180.00,1.00,Urbano,Sim
-LP002103,,Sim,1.00,Graduado,Sim,9.833.00,1.833.00,182.00,180.00,1.00,Urbano,Sim
-LP002106,Homem,Sim,,Graduado,Sim,5.503.00,4.490.00,70.00,,1.00,SemiUrbano,Sim
-LP002110,Homem,Sim,1.00,Graduado,,5.250.00,688.00,160.00,360.00,1.00,Rural,Sim
+LP002100,Homem,Não,Null,Graduado,Não,2.833.00,0.00,71.00,360.00,1.00,Urbano,Sim
+LP002101,Homem,Sim,0.00,Graduado,Null,63.337.00,0.00,490.00,180.00,1.00,Urbano,Sim
+LP002103,Null,Sim,1.00,Graduado,Sim,9.833.00,1.833.00,182.00,180.00,1.00,Urbano,Sim
+LP002106,Homem,Sim,Null,Graduado,Sim,5.503.00,4.490.00,70.00,Null,1.00,SemiUrbano,Sim
+LP002110,Homem,Sim,1.00,Graduado,Null,5.250.00,688.00,160.00,360.00,1.00,Rural,Sim
 LP002112,Homem,Sim,2.00,Graduado,Sim,2.500.00,4.600.00,176.00,360.00,1.00,Rural,Sim
-LP002113,Mulher,Não,3+,Não Graduado,Não,1.830.00,0.00,,360.00,0.00,Urbano,Não
+LP002113,Mulher,Não,3+,Não Graduado,Não,1.830.00,0.00,Null,360.00,0.00,Urbano,Não
 LP002114,Mulher,Não,0.00,Graduado,Não,4.160.00,0.00,71.00,360.00,1.00,SemiUrbano,Sim
 LP002115,Homem,Sim,3+,Não Graduado,Não,2.647.00,1.587.00,173.00,360.00,1.00,Rural,Não
 LP002116,Mulher,Não,0.00,Graduado,Não,2.378.00,0.00,46.00,360.00,1.00,Rural,Não
 LP002119,Homem,Sim,1.00,Não Graduado,Não,4.554.00,1.229.00,158.00,360.00,1.00,Urbano,Sim
 LP002126,Homem,Sim,3+,Não Graduado,Não,3.173.00,0.00,74.00,360.00,1.00,SemiUrbano,Sim
-LP002128,Homem,Sim,2.00,Graduado,,2.583.00,2.330.00,125.00,360.00,1.00,Rural,Sim
+LP002128,Homem,Sim,2.00,Graduado,Null,2.583.00,2.330.00,125.00,360.00,1.00,Rural,Sim
 LP002129,Homem,Sim,0.00,Graduado,Não,2.499.00,2.458.00,160.00,360.00,1.00,SemiUrbano,Sim
-LP002130,Homem,Sim,,Não Graduado,Não,3.523.00,3.230.00,152.00,360.00,0.00,Rural,Não
+LP002130,Homem,Sim,Null,Não Graduado,Não,3.523.00,3.230.00,152.00,360.00,0.00,Rural,Não
 LP002131,Homem,Sim,2.00,Não Graduado,Não,3.083.00,2.168.00,126.00,360.00,1.00,Urbano,Sim
-LP002137,Homem,Sim,0.00,Graduado,Não,6.333.00,4.583.00,259.00,360.00,,SemiUrbano,Sim
+LP002137,Homem,Sim,0.00,Graduado,Não,6.333.00,4.583.00,259.00,360.00,Null,SemiUrbano,Sim
 LP002138,Homem,Sim,0.00,Graduado,Não,2.625.00,6.250.00,187.00,360.00,1.00,Rural,Sim
 LP002139,Homem,Sim,0.00,Graduado,Não,9.083.00,0.00,228.00,360.00,1.00,SemiUrbano,Sim
 LP002140,Homem,Não,0.00,Graduado,Não,8.750.00,4.167.00,308.00,360.00,1.00,Rural,Não
 LP002141,Homem,Sim,3+,Graduado,Não,2.666.00,2.083.00,95.00,360.00,1.00,Rural,Sim
 LP002142,Mulher,Sim,0.00,Graduado,Sim,5.500.00,0.00,105.00,360.00,0.00,Rural,Não
 LP002143,Mulher,Sim,0.00,Graduado,Não,2.423.00,505.00,130.00,360.00,1.00,SemiUrbano,Sim
-LP002144,Mulher,Não,,Graduado,Não,3.813.00,0.00,116.00,180.00,1.00,Urbano,Sim
+LP002144,Mulher,Não,Null,Graduado,Não,3.813.00,0.00,116.00,180.00,1.00,Urbano,Sim
 LP002149,Homem,Sim,2.00,Graduado,Não,8.333.00,3.167.00,165.00,360.00,1.00,Rural,Sim
 LP002151,Homem,Sim,1.00,Graduado,Não,3.875.00,0.00,67.00,360.00,1.00,Urbano,Não
 LP002158,Homem,Sim,0.00,Não Graduado,Não,3.000.00,1.666.00,100.00,480.00,0.00,Urbano,Não
@@ -362,39 +362,39 @@ LP002160,Homem,Sim,3+,Graduado,Não,5.167.00,3.167.00,200.00,360.00,1.00,SemiUrb
 LP002161,Mulher,Não,1.00,Graduado,Não,4.723.00,0.00,81.00,360.00,1.00,SemiUrbano,Não
 LP002170,Homem,Sim,2.00,Graduado,Não,5.000.00,3.667.00,236.00,360.00,1.00,SemiUrbano,Sim
 LP002175,Homem,Sim,0.00,Graduado,Não,4.750.00,2.333.00,130.00,360.00,1.00,Urbano,Sim
-LP002178,Homem,Sim,0.00,Graduado,Não,3.013.00,3.033.00,95.00,300.00,,Urbano,Sim
+LP002178,Homem,Sim,0.00,Graduado,Não,3.013.00,3.033.00,95.00,300.00,Null,Urbano,Sim
 LP002180,Homem,Não,0.00,Graduado,Sim,6.822.00,0.00,141.00,360.00,1.00,Rural,Sim
 LP002181,Homem,Não,0.00,Não Graduado,Não,6.216.00,0.00,133.00,360.00,1.00,Rural,Não
 LP002187,Homem,Não,0.00,Graduado,Não,2.500.00,0.00,96.00,480.00,1.00,SemiUrbano,Não
-LP002188,Homem,Não,0.00,Graduado,Não,5.124.00,0.00,124.00,,0.00,Rural,Não
+LP002188,Homem,Não,0.00,Graduado,Não,5.124.00,0.00,124.00,Null,0.00,Rural,Não
 LP002190,Homem,Sim,1.00,Graduado,Não,6.325.00,0.00,175.00,360.00,1.00,SemiUrbano,Sim
 LP002191,Homem,Sim,0.00,Graduado,Não,19.730.00,5.266.00,570.00,360.00,1.00,Rural,Não
 LP002194,Mulher,Não,0.00,Graduado,Sim,15.759.00,0.00,55.00,360.00,1.00,SemiUrbano,Sim
 LP002197,Homem,Sim,2.00,Graduado,Não,5.185.00,0.00,155.00,360.00,1.00,SemiUrbano,Sim
 LP002201,Homem,Sim,2.00,Graduado,Sim,9.323.00,7.873.00,380.00,300.00,1.00,Rural,Sim
 LP002205,Homem,Não,1.00,Graduado,Não,3.062.00,1.987.00,111.00,180.00,0.00,Urbano,Não
-LP002209,Mulher,Não,0.00,Graduado,,2.764.00,1.459.00,110.00,360.00,1.00,Urbano,Sim
+LP002209,Mulher,Não,0.00,Graduado,Null,2.764.00,1.459.00,110.00,360.00,1.00,Urbano,Sim
 LP002211,Homem,Sim,0.00,Graduado,Não,4.817.00,923.00,120.00,180.00,1.00,Urbano,Sim
 LP002219,Homem,Sim,3+,Graduado,Não,8.750.00,4.996.00,130.00,360.00,1.00,Rural,Sim
-LP002223,Homem,Sim,0.00,Graduado,Não,4.310.00,0.00,130.00,360.00,,SemiUrbano,Sim
+LP002223,Homem,Sim,0.00,Graduado,Não,4.310.00,0.00,130.00,360.00,Null,SemiUrbano,Sim
 LP002224,Homem,Não,0.00,Graduado,Não,3.069.00,0.00,71.00,480.00,1.00,Urbano,Não
 LP002225,Homem,Sim,2.00,Graduado,Não,5.391.00,0.00,130.00,360.00,1.00,Urbano,Sim
-LP002226,Homem,Sim,0.00,Graduado,,3.333.00,2.500.00,128.00,360.00,1.00,SemiUrbano,Sim
+LP002226,Homem,Sim,0.00,Graduado,Null,3.333.00,2.500.00,128.00,360.00,1.00,SemiUrbano,Sim
 LP002229,Homem,Não,0.00,Graduado,Não,5.941.00,4.232.00,296.00,360.00,1.00,SemiUrbano,Sim
 LP002231,Mulher,Não,0.00,Graduado,Não,6.000.00,0.00,156.00,360.00,1.00,Urbano,Sim
 LP002234,Homem,Não,0.00,Graduado,Sim,7.167.00,0.00,128.00,360.00,1.00,Urbano,Sim
 LP002236,Homem,Sim,2.00,Graduado,Não,4.566.00,0.00,100.00,360.00,1.00,Urbano,Não
-LP002237,Homem,Não,1.00,Graduado,,3.667.00,0.00,113.00,180.00,1.00,Urbano,Sim
+LP002237,Homem,Não,1.00,Graduado,Null,3.667.00,0.00,113.00,180.00,1.00,Urbano,Sim
 LP002239,Homem,Não,0.00,Não Graduado,Não,2.346.00,1.600.00,132.00,360.00,1.00,SemiUrbano,Sim
-LP002243,Homem,Sim,0.00,Não Graduado,Não,3.010.00,3.136.00,,360.00,0.00,Urbano,Não
+LP002243,Homem,Sim,0.00,Não Graduado,Não,3.010.00,3.136.00,Null,360.00,0.00,Urbano,Não
 LP002244,Homem,Sim,0.00,Graduado,Não,2.333.00,2.417.00,136.00,360.00,1.00,Urbano,Sim
 LP002250,Homem,Sim,0.00,Graduado,Não,5.488.00,0.00,125.00,360.00,1.00,Rural,Sim
 LP002255,Homem,Não,3+,Graduado,Não,9.167.00,0.00,185.00,360.00,1.00,Rural,Sim
 LP002262,Homem,Sim,3+,Graduado,Não,9.504.00,0.00,275.00,360.00,1.00,Rural,Sim
-LP002263,Homem,Sim,0.00,Graduado,Não,2.583.00,2.115.00,120.00,360.00,,Urbano,Sim
+LP002263,Homem,Sim,0.00,Graduado,Não,2.583.00,2.115.00,120.00,360.00,Null,Urbano,Sim
 LP002265,Homem,Sim,2.00,Não Graduado,Não,1.993.00,1.625.00,113.00,180.00,1.00,SemiUrbano,Sim
 LP002266,Homem,Sim,2.00,Graduado,Não,3.100.00,1.400.00,113.00,360.00,1.00,Urbano,Sim
-LP002272,Homem,Sim,2.00,Graduado,Não,3.276.00,484.00,135.00,360.00,,SemiUrbano,Sim
+LP002272,Homem,Sim,2.00,Graduado,Não,3.276.00,484.00,135.00,360.00,Null,SemiUrbano,Sim
 LP002277,Mulher,Não,0.00,Graduado,Não,3.180.00,0.00,71.00,360.00,0.00,Urbano,Não
 LP002281,Homem,Sim,0.00,Graduado,Não,3.033.00,1.459.00,95.00,360.00,1.00,Urbano,Sim
 LP002284,Homem,Não,0.00,Não Graduado,Não,3.902.00,1.666.00,109.00,360.00,1.00,Rural,Sim
@@ -410,7 +410,7 @@ LP002314,Mulher,Não,0.00,Não Graduado,Não,2.213.00,0.00,66.00,360.00,1.00,Rur
 LP002315,Homem,Sim,1.00,Graduado,Não,8.300.00,0.00,152.00,300.00,0.00,SemiUrbano,Não
 LP002317,Homem,Sim,3+,Graduado,Não,81.000.00,0.00,360.00,360.00,0.00,Rural,Não
 LP002318,Mulher,Não,1.00,Não Graduado,Sim,3.867.00,0.00,62.00,360.00,1.00,SemiUrbano,Não
-LP002319,Homem,Sim,0.00,Graduado,,6.256.00,0.00,160.00,360.00,,Urbano,Sim
+LP002319,Homem,Sim,0.00,Graduado,Null,6.256.00,0.00,160.00,360.00,Null,Urbano,Sim
 LP002328,Homem,Sim,0.00,Não Graduado,Não,6.096.00,0.00,218.00,360.00,0.00,Rural,Não
 LP002332,Homem,Sim,0.00,Não Graduado,Não,2.253.00,2.033.00,110.00,360.00,1.00,Rural,Sim
 LP002335,Mulher,Sim,0.00,Não Graduado,Não,2.149.00,3.237.00,178.00,360.00,0.00,SemiUrbano,Não
@@ -420,9 +420,9 @@ LP002342,Homem,Sim,2.00,Graduado,Sim,1.600.00,20.000.00,239.00,360.00,1.00,Urban
 LP002345,Homem,Sim,0.00,Graduado,Não,1.025.00,2.773.00,112.00,360.00,1.00,Rural,Sim
 LP002347,Homem,Sim,0.00,Graduado,Não,3.246.00,1.417.00,138.00,360.00,1.00,SemiUrbano,Sim
 LP002348,Homem,Sim,0.00,Graduado,Não,5.829.00,0.00,138.00,360.00,1.00,Rural,Sim
-LP002357,Mulher,Não,0.00,Não Graduado,Não,2.720.00,0.00,80.00,,0.00,Urbano,Não
+LP002357,Mulher,Não,0.00,Não Graduado,Não,2.720.00,0.00,80.00,Null,0.00,Urbano,Não
 LP002361,Homem,Sim,0.00,Graduado,Não,1.820.00,1.719.00,100.00,360.00,1.00,Urbano,Sim
-LP002362,Homem,Sim,1.00,Graduado,Não,7.250.00,1.667.00,110.00,,0.00,Urbano,Não
+LP002362,Homem,Sim,1.00,Graduado,Não,7.250.00,1.667.00,110.00,Null,0.00,Urbano,Não
 LP002364,Homem,Sim,0.00,Graduado,Não,14.880.00,0.00,96.00,360.00,1.00,SemiUrbano,Sim
 LP002366,Homem,Sim,0.00,Graduado,Não,2.666.00,4.300.00,121.00,360.00,1.00,Rural,Sim
 LP002367,Mulher,Não,1.00,Não Graduado,Não,4.606.00,0.00,81.00,360.00,1.00,Rural,Não
@@ -431,26 +431,26 @@ LP002369,Homem,Sim,0.00,Graduado,Não,2.920.00,1.612.000.084.00,87.00,360.00,1.0
 LP002370,Homem,Não,0.00,Não Graduado,Não,2.717.00,0.00,60.00,180.00,1.00,Urbano,Sim
 LP002377,Mulher,Não,1.00,Graduado,Sim,8.624.00,0.00,150.00,360.00,1.00,SemiUrbano,Sim
 LP002379,Homem,Não,0.00,Graduado,Não,6.500.00,0.00,105.00,360.00,0.00,Rural,Não
-LP002386,Homem,Não,0.00,Graduado,,12.876.00,0.00,405.00,360.00,1.00,SemiUrbano,Sim
+LP002386,Homem,Não,0.00,Graduado,Null,12.876.00,0.00,405.00,360.00,1.00,SemiUrbano,Sim
 LP002387,Homem,Sim,0.00,Graduado,Não,2.425.00,2.340.00,143.00,360.00,1.00,SemiUrbano,Sim
 LP002390,Homem,Não,0.00,Graduado,Não,3.750.00,0.00,100.00,360.00,1.00,Urbano,Sim
-LP002393,Mulher,,,Graduado,Não,10.047.00,0.00,,240.00,1.00,SemiUrbano,Sim
+LP002393,Mulher,Null,Null,Graduado,Não,10.047.00,0.00,Null,240.00,1.00,SemiUrbano,Sim
 LP002398,Homem,Não,0.00,Graduado,Não,1.926.00,1.851.00,50.00,360.00,1.00,SemiUrbano,Sim
-LP002401,Homem,Sim,0.00,Graduado,Não,2.213.00,1.125.00,,360.00,1.00,Urbano,Sim
+LP002401,Homem,Sim,0.00,Graduado,Não,2.213.00,1.125.00,Null,360.00,1.00,Urbano,Sim
 LP002403,Homem,Não,0.00,Graduado,Sim,10.416.00,0.00,187.00,360.00,0.00,Urbano,Não
 LP002407,Mulher,Sim,0.00,Não Graduado,Sim,7.142.00,0.00,138.00,360.00,1.00,Rural,Sim
 LP002408,Homem,Não,0.00,Graduado,Não,3.660.00,5.064.00,187.00,360.00,1.00,SemiUrbano,Sim
 LP002409,Homem,Sim,0.00,Graduado,Não,7.901.00,1.833.00,180.00,360.00,1.00,Rural,Sim
 LP002418,Homem,Não,3+,Não Graduado,Não,4.707.00,1.993.00,148.00,360.00,1.00,SemiUrbano,Sim
 LP002422,Homem,Não,1.00,Graduado,Não,37.719.00,0.00,152.00,360.00,1.00,SemiUrbano,Sim
-LP002424,Homem,Sim,0.00,Graduado,Não,7.333.00,8.333.00,175.00,300.00,,Rural,Sim
+LP002424,Homem,Sim,0.00,Graduado,Não,7.333.00,8.333.00,175.00,300.00,Null,Rural,Sim
 LP002429,Homem,Sim,1.00,Graduado,Sim,3.466.00,1.210.00,130.00,360.00,1.00,Rural,Sim
 LP002434,Homem,Sim,2.00,Não Graduado,Não,4.652.00,0.00,110.00,360.00,1.00,Rural,Sim
-LP002435,Homem,Sim,0.00,Graduado,,3.539.00,1.376.00,55.00,360.00,1.00,Rural,Não
+LP002435,Homem,Sim,0.00,Graduado,Null,3.539.00,1.376.00,55.00,360.00,1.00,Rural,Não
 LP002443,Homem,Sim,2.00,Graduado,Não,3.340.00,1.710.00,150.00,360.00,0.00,Rural,Não
-LP002444,Homem,Não,1.00,Não Graduado,Sim,2.769.00,1.542.00,190.00,360.00,,SemiUrbano,Não
+LP002444,Homem,Não,1.00,Não Graduado,Sim,2.769.00,1.542.00,190.00,360.00,Null,SemiUrbano,Não
 LP002446,Homem,Sim,2.00,Não Graduado,Não,2.309.00,1.255.00,125.00,360.00,0.00,Rural,Não
-LP002447,Homem,Sim,2.00,Não Graduado,Não,1.958.00,1.456.00,60.00,300.00,,Urbano,Sim
+LP002447,Homem,Sim,2.00,Não Graduado,Não,1.958.00,1.456.00,60.00,300.00,Null,Urbano,Sim
 LP002448,Homem,Sim,0.00,Graduado,Não,3.948.00,1.733.00,149.00,360.00,0.00,Rural,Não
 LP002449,Homem,Sim,0.00,Graduado,Não,2.483.00,2.466.00,90.00,180.00,0.00,Rural,Sim
 LP002453,Homem,Não,0.00,Graduado,Sim,7.085.00,0.00,84.00,360.00,1.00,SemiUrbano,Sim
@@ -459,26 +459,26 @@ LP002459,Homem,Sim,0.00,Graduado,Não,4.301.00,0.00,118.00,360.00,1.00,Urbano,Si
 LP002467,Homem,Sim,0.00,Graduado,Não,3.708.00,2.569.00,173.00,360.00,1.00,Urbano,Não
 LP002472,Homem,Não,2.00,Graduado,Não,4.354.00,0.00,136.00,360.00,1.00,Rural,Sim
 LP002473,Homem,Sim,0.00,Graduado,Não,8.334.00,0.00,160.00,360.00,1.00,SemiUrbano,Não
-LP002478,,Sim,0.00,Graduado,Sim,2.083.00,4.083.00,160.00,360.00,,SemiUrbano,Sim
+LP002478,Null,Sim,0.00,Graduado,Sim,2.083.00,4.083.00,160.00,360.00,Null,SemiUrbano,Sim
 LP002484,Homem,Sim,3+,Graduado,Não,7.740.00,0.00,128.00,180.00,1.00,Urbano,Sim
 LP002487,Homem,Sim,0.00,Graduado,Não,3.015.00,2.188.00,153.00,360.00,1.00,Rural,Sim
-LP002489,Mulher,Não,1.00,Não Graduado,,5.191.00,0.00,132.00,360.00,1.00,SemiUrbano,Sim
+LP002489,Mulher,Não,1.00,Não Graduado,Null,5.191.00,0.00,132.00,360.00,1.00,SemiUrbano,Sim
 LP002493,Homem,Não,0.00,Graduado,Não,4.166.00,0.00,98.00,360.00,0.00,SemiUrbano,Não
 LP002494,Homem,Não,0.00,Graduado,Não,6.000.00,0.00,140.00,360.00,1.00,Rural,Sim
 LP002500,Homem,Sim,3+,Não Graduado,Não,2.947.00,1.664.00,70.00,180.00,0.00,Urbano,Não
-LP002501,,Sim,0.00,Graduado,Não,16.692.00,0.00,110.00,360.00,1.00,SemiUrbano,Sim
-LP002502,Mulher,Sim,2.00,Não Graduado,,210.00,2.917.00,98.00,360.00,1.00,SemiUrbano,Sim
+LP002501,Null,Sim,0.00,Graduado,Não,16.692.00,0.00,110.00,360.00,1.00,SemiUrbano,Sim
+LP002502,Mulher,Sim,2.00,Não Graduado,Null,210.00,2.917.00,98.00,360.00,1.00,SemiUrbano,Sim
 LP002505,Homem,Sim,0.00,Graduado,Não,4.333.00,2.451.00,110.00,360.00,1.00,Urbano,Não
 LP002515,Homem,Sim,1.00,Graduado,Sim,3.450.00,2.079.00,162.00,360.00,1.00,SemiUrbano,Sim
 LP002517,Homem,Sim,1.00,Não Graduado,Não,2.653.00,1.500.00,113.00,180.00,0.00,Rural,Não
 LP002519,Homem,Sim,3+,Graduado,Não,4.691.00,0.00,100.00,360.00,1.00,SemiUrbano,Sim
-LP002522,Mulher,Não,0.00,Graduado,Sim,2.500.00,0.00,93.00,360.00,,Urbano,Sim
+LP002522,Mulher,Não,0.00,Graduado,Sim,2.500.00,0.00,93.00,360.00,Null,Urbano,Sim
 LP002524,Homem,Não,2.00,Graduado,Não,5.532.00,4.648.00,162.00,360.00,1.00,Rural,Sim
 LP002527,Homem,Sim,2.00,Graduado,Sim,16.525.00,1.014.00,150.00,360.00,1.00,Rural,Sim
 LP002529,Homem,Sim,2.00,Graduado,Não,6.700.00,1.750.00,230.00,300.00,1.00,SemiUrbano,Sim
-LP002530,,Sim,2.00,Graduado,Não,2.873.00,1.872.00,132.00,360.00,0.00,SemiUrbano,Não
+LP002530,Null,Sim,2.00,Graduado,Não,2.873.00,1.872.00,132.00,360.00,0.00,SemiUrbano,Não
 LP002531,Homem,Sim,1.00,Graduado,Sim,16.667.00,2.250.00,86.00,360.00,1.00,SemiUrbano,Sim
-LP002533,Homem,Sim,2.00,Graduado,Não,2.947.00,1.603.00,,360.00,1.00,Urbano,Não
+LP002533,Homem,Sim,2.00,Graduado,Não,2.947.00,1.603.00,Null,360.00,1.00,Urbano,Não
 LP002534,Mulher,Não,0.00,Não Graduado,Não,4.350.00,0.00,154.00,360.00,1.00,Rural,Sim
 LP002536,Homem,Sim,3+,Não Graduado,Não,3.095.00,0.00,113.00,360.00,1.00,Rural,Sim
 LP002537,Homem,Sim,0.00,Graduado,Não,2.083.00,3.150.00,128.00,360.00,1.00,SemiUrbano,Sim
@@ -489,24 +489,24 @@ LP002545,Homem,Não,2.00,Graduado,Não,3.547.00,0.00,80.00,360.00,0.00,Rural,Nã
 LP002547,Homem,Sim,1.00,Graduado,Não,18.333.00,0.00,500.00,360.00,1.00,Urbano,Não
 LP002555,Homem,Sim,2.00,Graduado,Sim,4.583.00,2.083.00,160.00,360.00,1.00,SemiUrbano,Sim
 LP002556,Homem,Não,0.00,Graduado,Não,2.435.00,0.00,75.00,360.00,1.00,Urbano,Não
-LP002560,Homem,Não,0.00,Não Graduado,Não,2.699.00,2.785.00,96.00,360.00,,SemiUrbano,Sim
-LP002562,Homem,Sim,1.00,Não Graduado,Não,5.333.00,1.131.00,186.00,360.00,,Urbano,Sim
+LP002560,Homem,Não,0.00,Não Graduado,Não,2.699.00,2.785.00,96.00,360.00,Null,SemiUrbano,Sim
+LP002562,Homem,Sim,1.00,Não Graduado,Não,5.333.00,1.131.00,186.00,360.00,Null,Urbano,Sim
 LP002571,Homem,Não,0.00,Não Graduado,Não,3.691.00,0.00,110.00,360.00,1.00,Rural,Sim
 LP002582,Mulher,Não,0.00,Não Graduado,Sim,17.263.00,0.00,225.00,360.00,1.00,SemiUrbano,Sim
 LP002585,Homem,Sim,0.00,Graduado,Não,3.597.00,2.157.00,119.00,360.00,0.00,Rural,Não
 LP002586,Mulher,Sim,1.00,Graduado,Não,3.326.00,913.00,105.00,84.00,1.00,SemiUrbano,Sim
 LP002587,Homem,Sim,0.00,Não Graduado,Não,2.600.00,1.700.00,107.00,360.00,1.00,Rural,Sim
-LP002588,Homem,Sim,0.00,Graduado,Não,4.625.00,2.857.00,111.00,12.00,,Urbano,Sim
+LP002588,Homem,Sim,0.00,Graduado,Não,4.625.00,2.857.00,111.00,12.00,Null,Urbano,Sim
 LP002600,Homem,Sim,1.00,Graduado,Sim,2.895.00,0.00,95.00,360.00,1.00,SemiUrbano,Sim
 LP002602,Homem,Não,0.00,Graduado,Não,6.283.00,4.416.00,209.00,360.00,0.00,Rural,Não
 LP002603,Mulher,Não,0.00,Graduado,Não,645.00,3.683.00,113.00,480.00,1.00,Rural,Sim
 LP002606,Mulher,Não,0.00,Graduado,Não,3.159.00,0.00,100.00,360.00,1.00,SemiUrbano,Sim
 LP002615,Homem,Sim,2.00,Graduado,Não,4.865.00,5.624.00,208.00,360.00,1.00,SemiUrbano,Sim
-LP002618,Homem,Sim,1.00,Não Graduado,Não,4.050.00,5.302.00,138.00,360.00,,Rural,Não
+LP002618,Homem,Sim,1.00,Não Graduado,Não,4.050.00,5.302.00,138.00,360.00,Null,Rural,Não
 LP002619,Homem,Sim,0.00,Não Graduado,Não,3.814.00,1.483.00,124.00,300.00,1.00,SemiUrbano,Sim
 LP002622,Homem,Sim,2.00,Graduado,Não,3.510.00,4.416.00,243.00,360.00,1.00,Rural,Sim
-LP002624,Homem,Sim,0.00,Graduado,Não,20.833.00,6.667.00,480.00,360.00,,Urbano,Sim
-LP002625,,Não,0.00,Graduado,Não,3.583.00,0.00,96.00,360.00,1.00,Urbano,Não
+LP002624,Homem,Sim,0.00,Graduado,Não,20.833.00,6.667.00,480.00,360.00,Null,Urbano,Sim
+LP002625,Null,Não,0.00,Graduado,Não,3.583.00,0.00,96.00,360.00,1.00,Urbano,Não
 LP002626,Homem,Sim,0.00,Graduado,Sim,2.479.00,3.013.00,188.00,360.00,1.00,Urbano,Sim
 LP002634,Mulher,Não,1.00,Graduado,Não,13.262.00,0.00,40.00,360.00,1.00,Urbano,Sim
 LP002637,Homem,Não,0.00,Não Graduado,Não,3.598.00,1.287.00,100.00,360.00,1.00,Rural,Não
@@ -516,46 +516,46 @@ LP002648,Homem,Sim,0.00,Graduado,Não,2.130.00,6.666.00,70.00,180.00,1.00,SemiUr
 LP002652,Homem,Não,0.00,Graduado,Não,5.815.00,3.666.00,311.00,360.00,1.00,Rural,Não
 LP002659,Homem,Sim,3+,Graduado,Não,3.466.00,3.428.00,150.00,360.00,1.00,Rural,Sim
 LP002670,Mulher,Sim,2.00,Graduado,Não,2.031.00,1.632.00,113.00,480.00,1.00,SemiUrbano,Sim
-LP002682,Homem,Sim,,Não Graduado,Não,3.074.00,1.800.00,123.00,360.00,0.00,SemiUrbano,Não
+LP002682,Homem,Sim,Null,Não Graduado,Não,3.074.00,1.800.00,123.00,360.00,0.00,SemiUrbano,Não
 LP002683,Homem,Não,0.00,Graduado,Não,4.683.00,1.915.00,185.00,360.00,1.00,SemiUrbano,Não
 LP002684,Mulher,Não,0.00,Não Graduado,Não,3.400.00,0.00,95.00,360.00,1.00,Rural,Não
 LP002689,Homem,Sim,2.00,Não Graduado,Não,2.192.00,1.742.00,45.00,360.00,1.00,SemiUrbano,Sim
 LP002690,Homem,Não,0.00,Graduado,Não,2.500.00,0.00,55.00,360.00,1.00,SemiUrbano,Sim
 LP002692,Homem,Sim,3+,Graduado,Sim,5.677.00,1.424.00,100.00,360.00,1.00,Rural,Sim
 LP002693,Homem,Sim,2.00,Graduado,Sim,7.948.00,7.166.00,480.00,360.00,1.00,Rural,Sim
-LP002697,Homem,Não,0.00,Graduado,Não,4.680.00,2.087.00,,360.00,1.00,SemiUrbano,Não
+LP002697,Homem,Não,0.00,Graduado,Não,4.680.00,2.087.00,Null,360.00,1.00,SemiUrbano,Não
 LP002699,Homem,Sim,2.00,Graduado,Sim,17.500.00,0.00,400.00,360.00,1.00,Rural,Sim
 LP002705,Homem,Sim,0.00,Graduado,Não,3.775.00,0.00,110.00,360.00,1.00,SemiUrbano,Sim
 LP002706,Homem,Sim,1.00,Não Graduado,Não,5.285.00,1.430.00,161.00,360.00,0.00,SemiUrbano,Sim
 LP002714,Homem,Não,1.00,Não Graduado,Não,2.679.00,1.302.00,94.00,360.00,1.00,SemiUrbano,Sim
 LP002716,Homem,Não,0.00,Não Graduado,Não,6.783.00,0.00,130.00,360.00,1.00,SemiUrbano,Sim
-LP002717,Homem,Sim,0.00,Graduado,Não,1.025.00,5.500.00,216.00,360.00,,Rural,Sim
+LP002717,Homem,Sim,0.00,Graduado,Não,1.025.00,5.500.00,216.00,360.00,Null,Rural,Sim
 LP002720,Homem,Sim,3+,Graduado,Não,4.281.00,0.00,100.00,360.00,1.00,Urbano,Sim
 LP002723,Homem,Não,2.00,Graduado,Não,3.588.00,0.00,110.00,360.00,0.00,Rural,Não
-LP002729,Homem,Não,1.00,Graduado,Não,11.250.00,0.00,196.00,360.00,,SemiUrbano,Não
+LP002729,Homem,Não,1.00,Graduado,Não,11.250.00,0.00,196.00,360.00,Null,SemiUrbano,Não
 LP002731,Mulher,Não,0.00,Não Graduado,Sim,18.165.00,0.00,125.00,360.00,1.00,Urbano,Sim
-LP002732,Homem,Não,0.00,Não Graduado,,2.550.00,2.042.00,126.00,360.00,1.00,Rural,Sim
+LP002732,Homem,Não,0.00,Não Graduado,Null,2.550.00,2.042.00,126.00,360.00,1.00,Rural,Sim
 LP002734,Homem,Sim,0.00,Graduado,Não,6.133.00,3.906.00,324.00,360.00,1.00,Urbano,Sim
 LP002738,Homem,Não,2.00,Graduado,Não,3.617.00,0.00,107.00,360.00,1.00,SemiUrbano,Sim
 LP002739,Homem,Sim,0.00,Não Graduado,Não,2.917.00,536.00,66.00,360.00,1.00,Rural,Não
 LP002740,Homem,Sim,3+,Graduado,Não,6.417.00,0.00,157.00,180.00,1.00,Rural,Sim
 LP002741,Mulher,Sim,1.00,Graduado,Não,4.608.00,2.845.00,140.00,180.00,1.00,SemiUrbano,Sim
 LP002743,Mulher,Não,0.00,Graduado,Não,2.138.00,0.00,99.00,360.00,0.00,SemiUrbano,Não
-LP002753,Mulher,Não,1.00,Graduado,,3.652.00,0.00,95.00,360.00,1.00,SemiUrbano,Sim
+LP002753,Mulher,Não,1.00,Graduado,Null,3.652.00,0.00,95.00,360.00,1.00,SemiUrbano,Sim
 LP002755,Homem,Sim,1.00,Não Graduado,Não,2.239.00,2.524.00,128.00,360.00,1.00,Urbano,Sim
-LP002757,Mulher,Sim,0.00,Não Graduado,Não,3.017.00,663.00,102.00,360.00,,SemiUrbano,Sim
+LP002757,Mulher,Sim,0.00,Não Graduado,Não,3.017.00,663.00,102.00,360.00,Null,SemiUrbano,Sim
 LP002767,Homem,Sim,0.00,Graduado,Não,2.768.00,1.950.00,155.00,360.00,1.00,Rural,Sim
 LP002768,Homem,Não,0.00,Não Graduado,Não,3.358.00,0.00,80.00,36.00,1.00,SemiUrbano,Não
 LP002772,Homem,Não,0.00,Graduado,Não,2.526.00,1.783.00,145.00,360.00,1.00,Rural,Sim
 LP002776,Mulher,Não,0.00,Graduado,Não,5.000.00,0.00,103.00,360.00,0.00,SemiUrbano,Não
 LP002777,Homem,Sim,0.00,Graduado,Não,2.785.00,2.016.00,110.00,360.00,1.00,Rural,Sim
-LP002778,Homem,Sim,2.00,Graduado,Sim,6.633.00,0.00,,360.00,0.00,Rural,Não
-LP002784,Homem,Sim,1.00,Não Graduado,Não,2.492.00,2.375.00,,360.00,1.00,Rural,Sim
+LP002778,Homem,Sim,2.00,Graduado,Sim,6.633.00,0.00,Null,360.00,0.00,Rural,Não
+LP002784,Homem,Sim,1.00,Não Graduado,Não,2.492.00,2.375.00,Null,360.00,1.00,Rural,Sim
 LP002785,Homem,Sim,1.00,Graduado,Não,3.333.00,3.250.00,158.00,360.00,1.00,Urbano,Sim
 LP002788,Homem,Sim,0.00,Não Graduado,Não,2.454.00,2.333.00,181.00,360.00,0.00,Urbano,Não
 LP002789,Homem,Sim,0.00,Graduado,Não,3.593.00,4.266.00,132.00,180.00,0.00,Rural,Não
 LP002792,Homem,Sim,1.00,Graduado,Não,5.468.00,1.032.00,26.00,360.00,1.00,SemiUrbano,Sim
-LP002794,Mulher,Não,0.00,Graduado,Não,2.667.00,1.625.00,84.00,360.00,,Urbano,Sim
+LP002794,Mulher,Não,0.00,Graduado,Não,2.667.00,1.625.00,84.00,360.00,Null,Urbano,Sim
 LP002795,Homem,Sim,3+,Graduado,Sim,10.139.00,0.00,260.00,360.00,1.00,SemiUrbano,Sim
 LP002798,Homem,Sim,0.00,Graduado,Não,3.887.00,2.669.00,162.00,360.00,1.00,SemiUrbano,Sim
 LP002804,Mulher,Sim,0.00,Graduado,Não,4.180.00,2.306.00,182.00,360.00,1.00,SemiUrbano,Sim
@@ -564,47 +564,47 @@ LP002813,Mulher,Sim,1.00,Graduado,Sim,19.484.00,0.00,600.00,360.00,1.00,SemiUrba
 LP002820,Homem,Sim,0.00,Graduado,Não,5.923.00,2.054.00,211.00,360.00,1.00,Rural,Sim
 LP002821,Homem,Não,0.00,Não Graduado,Sim,5.800.00,0.00,132.00,360.00,1.00,SemiUrbano,Sim
 LP002832,Homem,Sim,2.00,Graduado,Não,8.799.00,0.00,258.00,360.00,0.00,Urbano,Não
-LP002833,Homem,Sim,0.00,Não Graduado,Não,4.467.00,0.00,120.00,360.00,,Rural,Sim
+LP002833,Homem,Sim,0.00,Não Graduado,Não,4.467.00,0.00,120.00,360.00,Null,Rural,Sim
 LP002836,Homem,Não,0.00,Graduado,Não,3.333.00,0.00,70.00,360.00,1.00,Urbano,Sim
 LP002837,Homem,Sim,3+,Graduado,Não,3.400.00,2.500.00,123.00,360.00,0.00,Rural,Não
 LP002840,Mulher,Não,0.00,Graduado,Não,2.378.00,0.00,9.00,360.00,1.00,Urbano,Não
 LP002841,Homem,Sim,0.00,Graduado,Não,3.166.00,2.064.00,104.00,360.00,0.00,Urbano,Não
 LP002842,Homem,Sim,1.00,Graduado,Não,3.417.00,1.750.00,186.00,360.00,1.00,Urbano,Sim
-LP002847,Homem,Sim,,Graduado,Não,5.116.00,1.451.00,165.00,360.00,0.00,Urbano,Não
+LP002847,Homem,Sim,Null,Graduado,Não,5.116.00,1.451.00,165.00,360.00,0.00,Urbano,Não
 LP002855,Homem,Sim,2.00,Graduado,Não,16.666.00,0.00,275.00,360.00,1.00,Urbano,Sim
 LP002862,Homem,Sim,2.00,Não Graduado,Não,6.125.00,1.625.00,187.00,480.00,1.00,SemiUrbano,Não
 LP002863,Homem,Sim,3+,Graduado,Não,6.406.00,0.00,150.00,360.00,1.00,SemiUrbano,Não
 LP002868,Homem,Sim,2.00,Graduado,Não,3.159.00,461.00,108.00,84.00,1.00,Urbano,Sim
-LP002872,,Sim,0.00,Graduado,Não,3.087.00,2.210.00,136.00,360.00,0.00,SemiUrbano,Não
+LP002872,Null,Sim,0.00,Graduado,Não,3.087.00,2.210.00,136.00,360.00,0.00,SemiUrbano,Não
 LP002874,Homem,Não,0.00,Graduado,Não,3.229.00,2.739.00,110.00,360.00,1.00,Urbano,Sim
 LP002877,Homem,Sim,1.00,Graduado,Não,1.782.00,2.232.00,107.00,360.00,1.00,Rural,Sim
-LP002888,Homem,Não,0.00,Graduado,,3.182.00,2.917.00,161.00,360.00,1.00,Urbano,Sim
+LP002888,Homem,Não,0.00,Graduado,Null,3.182.00,2.917.00,161.00,360.00,1.00,Urbano,Sim
 LP002892,Homem,Sim,2.00,Graduado,Não,6.540.00,0.00,205.00,360.00,1.00,SemiUrbano,Sim
 LP002893,Homem,Não,0.00,Graduado,Não,1.836.00,33.837.00,90.00,360.00,1.00,Urbano,Não
 LP002894,Mulher,Sim,0.00,Graduado,Não,3.166.00,0.00,36.00,360.00,1.00,SemiUrbano,Sim
-LP002898,Homem,Sim,1.00,Graduado,Não,1.880.00,0.00,61.00,360.00,,Rural,Não
+LP002898,Homem,Sim,1.00,Graduado,Não,1.880.00,0.00,61.00,360.00,Null,Rural,Não
 LP002911,Homem,Sim,1.00,Graduado,Não,2.787.00,1.917.00,146.00,360.00,0.00,Rural,Não
 LP002912,Homem,Sim,1.00,Graduado,Não,4.283.00,3.000.00,172.00,84.00,1.00,Rural,Não
 LP002916,Homem,Sim,0.00,Graduado,Não,2.297.00,1.522.00,104.00,360.00,1.00,Urbano,Sim
 LP002917,Mulher,Não,0.00,Não Graduado,Não,2.165.00,0.00,70.00,360.00,1.00,SemiUrbano,Sim
-LP002925,,Não,0.00,Graduado,Não,4.750.00,0.00,94.00,360.00,1.00,SemiUrbano,Sim
+LP002925,Null,Não,0.00,Graduado,Não,4.750.00,0.00,94.00,360.00,1.00,SemiUrbano,Sim
 LP002926,Homem,Sim,2.00,Graduado,Sim,2.726.00,0.00,106.00,360.00,0.00,SemiUrbano,Não
 LP002928,Homem,Sim,0.00,Graduado,Não,3.000.00,3.416.00,56.00,180.00,1.00,SemiUrbano,Sim
 LP002931,Homem,Sim,2.00,Graduado,Sim,6.000.00,0.00,205.00,240.00,1.00,SemiUrbano,Não
-LP002933,,Não,3+,Graduado,Sim,9.357.00,0.00,292.00,360.00,1.00,SemiUrbano,Sim
+LP002933,Null,Não,3+,Graduado,Sim,9.357.00,0.00,292.00,360.00,1.00,SemiUrbano,Sim
 LP002936,Homem,Sim,0.00,Graduado,Não,3.859.00,3.300.00,142.00,180.00,1.00,Rural,Sim
 LP002938,Homem,Sim,0.00,Graduado,Sim,16.120.00,0.00,260.00,360.00,1.00,Urbano,Sim
 LP002940,Homem,Não,0.00,Não Graduado,Não,3.833.00,0.00,110.00,360.00,1.00,Rural,Sim
 LP002941,Homem,Sim,2.00,Não Graduado,Sim,6.383.00,1.000.00,187.00,360.00,1.00,Rural,Não
-LP002943,Homem,Não,,Graduado,Não,2.987.00,0.00,88.00,360.00,0.00,SemiUrbano,Não
+LP002943,Homem,Não,Null,Graduado,Não,2.987.00,0.00,88.00,360.00,0.00,SemiUrbano,Não
 LP002945,Homem,Sim,0.00,Graduado,Sim,9.963.00,0.00,180.00,360.00,1.00,Rural,Sim
 LP002948,Homem,Sim,2.00,Graduado,Não,5.780.00,0.00,192.00,360.00,1.00,Urbano,Sim
-LP002949,Mulher,Não,3+,Graduado,,416.00,41.667.00,350.00,180.00,,Urbano,Não
-LP002950,Homem,Sim,0.00,Não Graduado,,2.894.00,2.792.00,155.00,360.00,1.00,Rural,Sim
+LP002949,Mulher,Não,3+,Graduado,Null,416.00,41.667.00,350.00,180.00,Null,Urbano,Não
+LP002950,Homem,Sim,0.00,Não Graduado,Null,2.894.00,2.792.00,155.00,360.00,1.00,Rural,Sim
 LP002953,Homem,Sim,3+,Graduado,Não,5.703.00,0.00,128.00,360.00,1.00,Urbano,Sim
 LP002958,Homem,Não,0.00,Graduado,Não,3.676.00,4.301.00,172.00,360.00,1.00,Rural,Sim
 LP002959,Mulher,Sim,1.00,Graduado,Não,12.000.00,0.00,496.00,360.00,1.00,SemiUrbano,Sim
-LP002960,Homem,Sim,0.00,Não Graduado,Não,2.400.00,3.800.00,,180.00,1.00,Urbano,Não
+LP002960,Homem,Sim,0.00,Não Graduado,Não,2.400.00,3.800.00,Null,180.00,1.00,Urbano,Não
 LP002961,Homem,Sim,1.00,Graduado,Não,3.400.00,2.500.00,173.00,360.00,1.00,SemiUrbano,Sim
 LP002964,Homem,Sim,2.00,Não Graduado,Não,3.987.00,1.411.00,157.00,360.00,1.00,Rural,Sim
 LP002974,Homem,Sim,0.00,Graduado,Não,3.232.00,1.950.00,108.00,360.00,1.00,Rural,Sim
